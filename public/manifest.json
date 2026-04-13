@@ -1,0 +1,9 @@
+{
+  "name": "Meu Painel",
+  "short_name": "Painel",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ddf0fb",
+  "theme_color": "#ddf0fb",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
